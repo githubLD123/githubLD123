@@ -1,10 +1,12 @@
-# 👋 Hi, I’m @githubLD123
-## 👀 I’m interested in ...
-## 🌱 I’m currently learning ...
-## 💞️ I’m looking to collaborate on ...
+# 👋你好！！！我是李达😀
+## 👀 浙大硕三;信号处理;TOF;LMS;嵌入式相关;zhihui君minus poor young neo 丐版
+广而不深：乱七八糟什么都懂一点，但不精通。
+汇编、C、python、web三剑客，sql，linux server，
+arm architecture，stm32，
+
+## 🌱 I’m currently learning LMS algorithm
+正在企图用LMS做延时估计，学习相关知识中
+
+
 ## 📫 How to reach me ...
-- 
-<!---
-githubLD123/githubLD123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+email：22115034@zju.edu.cn
